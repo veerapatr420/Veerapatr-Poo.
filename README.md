@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Veerapatr Poo.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Flutter+Developer;Computer+Science+Student)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 💻 Computer Science Student  
 📍 Thailand  
