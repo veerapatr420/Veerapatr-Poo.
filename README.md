@@ -22,7 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=veerapatr420E&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=veerapatr420&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerapatr420&layout=compact)
 
